@@ -10,4 +10,14 @@
 
 .color p {
     margin: 2px;
+    font-size: 14px;
+}
+
+.color .color-value {
+    font-weight: 500;
+}
+
+.color .alert {
+    text-transform: uppercase;
+    font-size: 12px;
 }
