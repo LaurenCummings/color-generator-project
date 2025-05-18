@@ -1,8 +1,13 @@
 .color {
     height: 130px;
     width: 100px;
+    padding: 5px 20px;
 }
 
 .color-light {
     color: white;
+}
+
+.color p {
+    margin: 2px;
 }
