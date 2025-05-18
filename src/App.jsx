@@ -1,6 +1,7 @@
 import './App.css'
 import { useState } from 'react';
 import Values from 'values.js';
+import SingleColor from './SingleColor';
 
 function App() {
   const [color, setColor] = useState('');
