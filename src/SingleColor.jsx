@@ -1,3 +1,4 @@
+import './SingleColor.css';
 import { useState, useEffect } from 'react';
 
 function SingleColor({rgb, weight, index, hexColor}) {
