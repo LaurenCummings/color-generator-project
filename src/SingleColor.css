@@ -1,7 +1,8 @@
 .color {
     height: 130px;
-    width: 100px;
     padding: 5px 20px;
+    flex: 1;
+    min-width: 100px;
 }
 
 .color-light {
