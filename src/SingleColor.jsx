@@ -6,9 +6,9 @@ function SingleColor({rgb, weight, index}) {
     const bcg = rgb.join(',');
     console.log(bcg);
     return (
-        <div>
+        <article className={`color`} style={{backgroundColor:`rgb(${bcg})`}}>
             SingleColor
-        </div>
+        </article>
     )
 }
 
